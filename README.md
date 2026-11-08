@@ -1,5 +1,5 @@
 # Java-studies
-# ☕ Java Fundamentals & OOP Learning Journey.
+# ☕ Java Fundamentals & OOP Learning Journey
 
 ![Java Version](https://img.shields.io/badge/Java-26-orange?style=flat-square&logo=openjdk)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)
